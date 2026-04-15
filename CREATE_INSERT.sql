@@ -1,6 +1,5 @@
 Create Database LOGITpv24;
 
-
 --ab kasutamine
 
 USE LOGITpv24;
