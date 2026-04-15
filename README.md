@@ -18,4 +18,17 @@ andmebaaside haldusega seotud sql kood ja konspektid
 1. DDL - Data Definition Language
 2. DML - Data Manipulation Language
 
-## Piirangud - 
+## Piirangud - ограничения
+1. PRIMARY KEY
+2. NOT NULL
+3. CHECK -vali
+4. UNIQUE
+5. FOREIGN KEY
+   
+## Andmetüübid 
+```
+1. int, smallint, decimal(5,2) - numbrilised
+2. varchar(30), char(5), TEXT -tekst/sümbolised
+3. date, time, datetime, - kuupäeva
+4. boolean, bit, bool -loogilised
+```
