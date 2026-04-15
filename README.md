@@ -1,6 +1,6 @@
 # Andmebaasid
 andmebaaside haldusega seotud sql kood ja konspektid
-# Sisukord
+## Sisukord
 - [Põhimõisted](#põhimõisted)
 - [Andmetüübid](#andmetüübid) 
 ## Põhimõisted
