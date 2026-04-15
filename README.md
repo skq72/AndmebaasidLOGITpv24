@@ -1,6 +1,8 @@
 ## Andmebaasid
 andmebaaside haldusega seotud sql kood ja konspektid
-
+## Sisukord
+- [Põhimõisted](#põhimõisted)
+- [Andmetüübid](#andmetüübid) 
 ## Põhimõisted
 - Andmebaasi haldussüsteemid - tarkvara, millega abil saab luua andmebaas (mariaDB - XAMPP, SQL Server - SQL Server Management Studio)
 - Andmebaas - struktureeritud andmete kogum
@@ -32,3 +34,10 @@ andmebaaside haldusega seotud sql kood ja konspektid
 3. date, time, datetime, - kuupäeva
 4. boolean, bit, bool -loogilised
 ```
+## Tabelivahelised seosed
+- üks-ühele -(nt naine-mees)
+- üks-mitmele (nt naine -lapsed)
+ <img width="499" height="207" alt="{2F7F4959-E85F-452A-9416-2BC01B6CA80A}" src="https://github.com/user-attachments/assets/a7fa5b1c-8663-4039-a1e5-92646f7e05ce" />
+
+
+- mitme-mitmele (nt õpilased-tunnid)
