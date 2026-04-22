@@ -6,10 +6,11 @@ andmebaaside haldusega seotud sql kood ja konspektid
 - [SÕL](#sõl)
 - [Piirangud](#piirangud)
 - [Tabelivahelised_seosed](#tabelivahelised_seosed)
+- [Alter_table](#alter_table)
 ## Põhimõisted
 - Andmebaasi haldussüsteemid - tarkvara, millega abil saab luua andmebaas (mariaDB - XAMPP, SQL Server - SQL Server Management Studio)
 - Andmebaas - struktureeritud andmete kogum
-- Tabel - olem - сущности
+- Tabel = olem - сущности
 - Veerg = väli - поле
 - Rida = kirje - запись
 - Primaarne võti - Primary key -PK- veerg, unikaalse identifikaatoriga (tavaliselt nimetakse ID)- первичный ключ
@@ -47,5 +48,19 @@ andmebaaside haldusega seotud sql kood ja konspektid
 
 - mitme-mitmele (nt õpilased-tunnid)
 
-  ## ALTER TABLE -tabeli struktuuri muutmine
-  1. uue veeru lisamine 
+  ## Alter_table
+1. uue veeru lisamine
+  
+```sql
+
+--1. uue veeru lisamine
+ALTER TABLE tootaja ADD testVeerg int;
+SELECT * FROM tootaja;
+--2. veeru kustutamine
+ALTER TABLE tootaja DROP COLUMN testVeerg;
+SELECT * FROM tootaja;
+--3. andmetüübi muutmine veerus
+ALTER TABLE tootaja ALTER COLUMN testVeerg varchar(5);
+--struktuuri kontrollimiseks kasutame protseduur sp_help
+sp_help tootaja;
+```
