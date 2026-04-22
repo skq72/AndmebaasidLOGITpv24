@@ -46,3 +46,6 @@ andmebaaside haldusega seotud sql kood ja konspektid
 
 
 - mitme-mitmele (nt õpilased-tunnid)
+
+  ## ALTER TABLE -tabeli struktuuri muutmine
+  1. uue veeru lisamine 
