@@ -16,3 +16,5 @@ concat ('linn: ', inserted.linnanimi, ', rahvaarv: ', inserted.rahvaarv)  --andm
 FROM inserted;
 ```
 <img width="608" height="419" alt="{C18954B6-4DED-4A98-9882-DD1BA8E38EAC}" src="https://github.com/user-attachments/assets/0616dc11-ad27-4ab3-863c-afff2aa80b9b" />
+
+<img width="441" height="509" alt="{AAEE3257-D697-45DC-859E-8A5411C26104}" src="https://github.com/user-attachments/assets/d125b5b7-7ad5-466e-826f-da202c0173bf" />
