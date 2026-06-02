@@ -16,3 +16,7 @@ Kontrollimine
 
 Kontrollime mis saab teha sekretaar
 <img width="1119" height="115" alt="{39F0E5AF-3278-4C87-95A1-D2DDD1339349}" src="https://github.com/user-attachments/assets/b98fecaa-15c3-41d4-bb17-2d8143000157" />
+
+Kontrollime et sekretaar ei saa näha tabel nimega logi
+<img width="242" height="173" alt="{CFF11108-5081-4925-96B0-EF4D501CD3BA}" src="https://github.com/user-attachments/assets/5e5bcc37-0256-43e3-8d65-e7f1a8d226a3" />
+
