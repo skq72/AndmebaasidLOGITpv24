@@ -1,4 +1,8 @@
-# Andmebaasid
+## Andmebaasite    Kirill Šlõkov    Konpektid
+
+[Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | 
+
+
 andmebaaside haldusega seotud sql kood ja konspektid
 ## Sisukord
 - [Põhimõisted](#põhimõisted)
