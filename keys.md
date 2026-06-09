@@ -1,5 +1,7 @@
 # Andmebaasi võtmed (Keys)
 
+[Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | [Keys](keys.md) | [Kasutajad ja ül1](kasutaja.md) | 
+
 ## Primary Key
 See on tabeli rea peamine unikaalne number (nagu inimese passi number). Selle abil leiab andmebaas vajaliku kirje.
 ```sql
