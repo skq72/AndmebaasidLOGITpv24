@@ -1,4 +1,7 @@
 # SQL Protseduurid
+
+[Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | [Keys](keys.md) | [Protseduurid](protseduurid.md) | [Kasutajad ja ül1](kasutaja.md) | 
+
 (Protseduur) on SQL käskude kogum, mis salvestatakse andmebaasi ja mida saab korduvalt kasutada.
 Eelised:
 
