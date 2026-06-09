@@ -144,6 +144,13 @@ BEGIN
 END;
 EXEC kuvaTootedHinnaKategooriaga
 ```
+## Tähtsad mõisted
+
+- @parameeter – sisendväärtus protseduurile
+- OUTPUT – tagastatav väärtus
+- EXEC – protseduuri käivitamine
+- Dünaamiline SQL – SQL käsk, mis luuakse stringina
+- ALTER TABLE – tabeli muutmine
 
 <img width="383" height="257" alt="{260FAE70-66EB-4AC3-B349-E9F66716B30C}" src="https://github.com/user-attachments/assets/3aa314a4-0e41-4cfa-8564-901d622086b8" />
 
