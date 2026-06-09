@@ -2,6 +2,8 @@
 
 [Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | [Keys](keys.md) | [Protseduurid](protseduurid.md) | [Kasutajad ja ül1](kasutaja.md) | 
 
+INSERT trigger
+
 <img width="690" height="744" alt="{D7C55942-39AE-458B-BF27-AA946037AD19}" src="https://github.com/user-attachments/assets/b717434f-728e-474d-81ce-1a2feaf7e55e" />
 
 DELETE trigger
