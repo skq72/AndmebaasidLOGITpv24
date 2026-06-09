@@ -1,6 +1,6 @@
 ## Andmebaasite    Kirill Šlõkov    Konpektid
 
-[Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | [Keys](keys.md) | [Kasutajad ja ül1](kasutaja.md) | 
+[Põhimõisted](README.md) | [Trigerid](triger.md) | [Trigerid XAMPP-is](trigerXAMPP.md) | [Keys](keys.md) | [Protseduurid](protseduurid.md) | [Kasutajad ja ül1](kasutaja.md) |
 
 andmebaaside haldusega seotud sql kood ja konspektid
 ## Sisukord
